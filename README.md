@@ -5,6 +5,11 @@
 - 🤔 I’m always looking for help with becoming the best Full-Stack Web & Mobile Dev.
 - 📫 How to reach me: narvaez.jonmichael@gmail.com
 
+<a href="https://github.com/jmcancode/github-readme-stats"">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmcancode&count_private=true&show_icons=true&theme=dracula&layout=compact&hide=stars,prs,issues,contribs)](https://github.com/jmcancode/github-readme-stats"/>
+  </a>
+
+
 
 [![JM's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmcancode&count_private=true&show_icons=true&theme=dracula&layout=compact&hide=stars,prs,issues,contribs)](https://github.com/jmcancode/github-readme-stats)
 
