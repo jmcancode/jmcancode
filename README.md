@@ -13,4 +13,4 @@ A few things about me and my work...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcancode&theme=dracula&private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jmcancode)](https://github.com/jmcancode/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/jmcancode/github-readme-stats)
