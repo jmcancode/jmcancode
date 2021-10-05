@@ -11,5 +11,5 @@ A few things about me and my work...
 
 [![JM's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmcancode&count_private=true&show_icons=true&theme=dracula)](https://github.com/jmcancode/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcancode)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcancode&theme=dracula&private=true)](https://github.com/anuraghazra/github-readme-stats)
 
