@@ -8,6 +8,6 @@
 
 [![JM's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmcancode&count_private=true&show_icons=true&theme=dracula&layout=compact)](https://github.com/jmcancode/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcancode&theme=dracula&private=true&hsow_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmcancode&theme=dracula&private=true&hsow_icons=true&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&theme=dracula&private=true&layout=compact)](https://github.com/jmcancode/github-readme-stats)
