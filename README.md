@@ -9,4 +9,4 @@ A few things about me and my work...
 - 📫 How to reach me: narvaez.jonmichael@gmail.com
 
 
-[![JM's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmcancode)](https://github.com/jmcancode/github-readme-stats)
+[![JM's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmcancode&count_private=true&show_icons=true&theme=dracula)](https://github.com/jmcancode/github-readme-stats)
