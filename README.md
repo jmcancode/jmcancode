@@ -1,7 +1,7 @@
 ### Hey there, I'm JM 👋
 
 - 🔭 Currently Senior Software Developer @ J12 Designs.
-- 🤔 I’m always looking for help with becoming the best Full-Stack Web & Mobile Dev.
+- 🤔 I’m always looking to collaborate with other Developers and Creatives!
 - 📫 How to reach me: narvaez.jonmichael@gmail.com
 
 ### My Github Stats
