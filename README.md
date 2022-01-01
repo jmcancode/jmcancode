@@ -1,8 +1,6 @@
 ### Hey there, I'm JM 👋
 
-- 🔭 Currently Software Developer @ J12 Designs.
-- 🤔 I’m always looking to collaborate with other Developers and Creatives!
-- 📫 How to reach me: narvaez.jonmichael@gmail.com
+- 🔭 Currently Full-Stack Software Developer @ J12 Designs & @ B-Boy Creative.
 
 ### Progamming Profile
 
