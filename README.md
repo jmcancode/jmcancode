@@ -1,6 +1,6 @@
 ### Hey there, I'm JM 👋
 
-- 🔭 Currently Senior Software Developer @ J12 Designs.
+- 🔭 Currently Software Developer @ J12 Designs.
 - 🤔 I’m always looking to collaborate with other Developers and Creatives!
 - 📫 How to reach me: narvaez.jonmichael@gmail.com
 
