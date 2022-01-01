@@ -11,7 +11,7 @@
  </a> </div>
  <div>
  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmcancode&theme=dracula&private=true&hsow_icons=true&layout=compact&langs_count=3"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmcancode&theme=dracula&private=true&hsow_icons=true&layout=compact&langs_count=5"/>
 </a>
   </div>
 
