@@ -1,6 +1,6 @@
 ### Hey there, I'm JM 👋
 
-- 🔭 Currently Full-Stack Software Developer @ J12 Designs & @ B-Boy Creative.
+- 🔭 Currently Full-Stack Software Developer in San Antonio,Texas @ B-Boy Creative & Chatsworth, California @ LayerCake Inc.
 
 ### Progamming Profile
 
