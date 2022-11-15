@@ -1,6 +1,6 @@
 ### Hey there, I'm JM 👋
 
-- 🔭 Currently Full-Stack Software Developer in San Antonio,Texas @ B-Boy Creative & Chatsworth, California @ LayerCake Inc.
+- 🔭 Currently Senior Full-Stack Software Developer in San Antonio,Texas @ B-Boy Creative & Better Than Vegas, INC.
 
 ### Progamming Profile
 
