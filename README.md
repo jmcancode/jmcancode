@@ -1,6 +1,6 @@
 ### Hey there, I'm JM 👋
 
-- 🔭 Currently Senior Full-Stack Software Developer in San Antonio,Texas @ B-Boy Creative & Better Than Vegas, INC.
+- 🔭 Currently Senior Full-Stack Software Developer in San Antonio,Texas @ B-Boy Creative
 
 ### Progamming Profile
 
