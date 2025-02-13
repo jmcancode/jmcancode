@@ -1,6 +1,7 @@
 ### Hey there, I'm JM 👋
 
-- 🔭 Currently Senior Full-Stack Software Developer in San Antonio, Texas @ B-Boy Creative
+- 🔭 Currently Senior Full-Stack Software Developer in San Antonio, Texas @ B-Boy Creative & Sonnys Enterprises, LLC
+- NOT A SPACE FOR CODE REVIEW - THIS PROFILE IS NOT MAINTAINED.
 
 ### Programming Profile
 
